@@ -1,0 +1,25 @@
+{
+  "name": "userfollows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakcodes/userfollow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/peakcodes/userfollow/issues"
+  },
+  "homepage": "https://github.com/peakcodes/userfollow#readme",
+  "description": ""
+}
+
